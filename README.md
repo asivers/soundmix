@@ -1,1 +1,1 @@
-soundmix
+Very Simple Desktop Synthesizer
